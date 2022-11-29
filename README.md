@@ -1,6 +1,6 @@
 ### Hello there!
 
-I code in languages like JavaScript, TypeScript, Python, PHP and C++. I'm the creator of the open-source [Northle JS Framework](https://github.com/northle/core) for Node.js.
+I code in languages like JavaScript, TypeScript, Python, PHP and C++. I'm the creator of the open-source [Northle.js Framework](https://github.com/northle/core) for Node.js.
 
-- 🔭 I’m currently working on: [Northle JS Framework](https://github.com/northle) and other side projects
+- 🔭 I’m currently working on: [Northle.js Framework](https://github.com/northle) and other side projects
 - 📫 You can reach me with: [Messenger](https://www.facebook.com/dominik.rajkowski.9) • [Instagram](https://www.instagram.com/dominiq_rajkowski/) • or email me: dom.rajkowski@gmail.com
