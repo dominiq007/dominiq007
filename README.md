@@ -1,6 +1,6 @@
 ### Hello there!
 
-I code in languages such as JavaScript, TypeScript, Python, PHP and C++. I'm the creator of an open-source [Northle.js Framework](https://northlejs.com) for [Node.js](https://nodejs.org).
+I code in many languages such as JavaScript, TypeScript, PHP, Python, C++ and C#. I'm the creator of an open-source [Northle.js Framework](https://northlejs.com) for [Node.js](https://nodejs.org).
 
 - 🔭 I’m currently working on: [Northle.js Framework](https://github.com/northle) (docs - [northlejs.com](https://northlejs.com)), and other side projects
 - 💜 I'm interested in 💻 programming, 📸 photography, 🔭 astronomy, and 🎥 filmmaking
